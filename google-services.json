@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705136966246",
+    "project_id": "pgr-bet",
+    "storage_bucket": "pgr-bet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705136966246:android:c7dc90d189562c913a0ba7",
+        "android_client_info": {
+          "package_name": "com.pgrbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705136966246-pnk6e9h18mpfm4l8tf6vrhhlst6fr1c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkED7l2sVHIIBgwtHqG3n8mB7IZTuVR4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705136966246-pnk6e9h18mpfm4l8tf6vrhhlst6fr1c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
